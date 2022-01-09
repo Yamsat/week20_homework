@@ -67,7 +67,7 @@ The contract is deployed.  The deployed contract has a fastfoward function added
 
 The contact was deployed successfully.
 
-![third deploy success](photos/third_deploy_success.png)
+![third deploy success](photos/third_deploy_sucess.png)
 
 Tha balance is checked before distribution.
 
