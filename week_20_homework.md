@@ -41,7 +41,7 @@ The contract is deployed.
 
 The contract was deployed successfully.
 
-![second deploy success](photos/second_deploy_sucess.png)
+![second deploy success](photos/second_deploy_success.png)
 
 Depoist function is called.  100000 Wei is ditributed to three addresses in differenct proportions (50%, 25% and 20%).
 
