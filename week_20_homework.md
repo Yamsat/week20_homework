@@ -77,7 +77,7 @@ Fastforwarded 365 days and the emplyee is entitled for the first distribution.
 
 ![first fastforward](photos/third_ff_1.png)
 
-First distribution was made.
+The first distribution was made.
 
 ![first distribution](photos/third_dist1_success.png)
 
@@ -89,7 +89,7 @@ Fastforwarded 365 days again and the emplyee is entitled for the second distribu
 
 ![second fastforward](photos/third_ff_2.png)
 
-First distribution was made.
+The second distribution was made.
 
 ![second distribution](photos/third_dist2_success.png)
 
@@ -101,7 +101,7 @@ Fastforwarded 365 days again and the emplyee is entitled for the third distribut
 
 ![third fastforward](photos/third_ff_3.png)
 
-First distribution was made.
+The third distribution was made.
 
 ![third distribution](photos/third_dist3_success.png)
 
@@ -113,7 +113,7 @@ Fastforwarded 365 days again and the emplyee is entitled for the fourth distribu
 
 ![fourth fastforward](photos/third_ff_4.png)
 
-First distribution was made.
+The fourth distribution was made.
 
 ![fourth distribution](photos/third_dist4_success.png)
 
