@@ -7,7 +7,7 @@ I created three contracts to automate company finances.
 ### AssociateProfitSplitter contract
 This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
-![first contract]('photos/first_code.png')
+![first contract]('/photos/first_code.png')
 
 The contract is deployed.
 
