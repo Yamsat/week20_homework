@@ -2,7 +2,9 @@
 
 ## Smart contracts built with Solidity
 I created three contracts to automate company finances.
-
+- AssociateProfitSplitter
+- TieredProfitSplitter
+- DeferredEquityPlan
 
 ### AssociateProfitSplitter contract
 This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
@@ -61,7 +63,7 @@ The balance of the contract is checked. The balance is 0.
 ### DeferredEquityPlan 
 This models traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
 
-![third contract](photos/third_code.png)
+![third contract](photos/third_code_fakenow.png)
 
 The contract is deployed.  The deployed contract has a fastfoward function added which fastforwards time by 365 days. So we don't need to wait for 365 days to test the contract!
 
