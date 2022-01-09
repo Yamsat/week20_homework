@@ -30,6 +30,7 @@ The balance of the contract is checked.  The balance is 0.
 ![first check balance](photos/first_balance.png)
 
 
+
 ### TieredProfitSplitter 
 This will distribute different percentages of incoming Ether to employees at different tiers/levels. For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%.
 
@@ -54,6 +55,7 @@ Deposit function call was successful. Employees one, two and three reiceived the
 The balance of the contract is checked. The balance is 0.
 
 ![second check balance](photos/second_balance.png)
+
 
 
 ### DeferredEquityPlan 
