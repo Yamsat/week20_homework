@@ -15,7 +15,7 @@ The contract is deployed.
 
 The contract was deployed successfully.
 
-![first deploy success](photos/first_deploy_success.png)
+![first deploy success](photos/first_deply_success.png)
 
 Depossit function is called.  60000 Wei is distributed to three addresses.
 
