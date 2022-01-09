@@ -27,7 +27,7 @@ Deposit funcation call was successful.  Each address received 20000 Wei.
 
 The balance of the contract is checked.  The balance is 0.
 
-![first check balance](photos/first_balace.png)
+![first check balance](photos/first_balance.png)
 
 
 ### TieredProfitSplitter 
